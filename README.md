@@ -20,12 +20,15 @@ Working with fashion, streetwear and skincare brands on Meta paid social.
 ## Skills & Tools
 
 **Motion Design**
+
 Adobe After Effects
 
 **Brand & Print**
+
 Adobe Illustrator, Adobe Photoshop, Adobe InDesign
 
 **Web**
+
 HTML, CSS, JavaScript, Figma
 
 ---
