@@ -31,3 +31,10 @@ Adobe Illustrator, Adobe Photoshop, Adobe InDesign
 HTML, CSS, JavaScript, Figma
 
 ---
+
+## Contact
+
+- **Portfolio:** [maroundesigns.github.io/portfolio](https://maroundesigns.github.io/portfolio)
+- **Email:** bmhayek800@gmail.com
+- **Instagram:** [@maroundesigns](https://instagram.com/maroundesigns)
+- **LinkedIn:** [Benoit Hayek](https://linkedin.com/in/benoit-hayek-946b71387)
